@@ -30,9 +30,9 @@ github_username:  Shiv-kiran
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: My Website
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://shiv-kiran.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -112,11 +112,11 @@ about_content: | # this will include new lines to allow paragraphs
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# remote_theme: sproogen/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
